@@ -1,4 +1,4 @@
-public class Problems{
+public class Problem{
 	public static void main(String[] args){
 		System.out.print("Hi, can we check this?");
 		System.out.println("It has a lot of problems");
